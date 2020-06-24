@@ -1,1 +1,1 @@
-# react-shop-app
+Farmers ecommerce app
